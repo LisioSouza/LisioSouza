@@ -1,7 +1,7 @@
 ### Olá, sou Lisio Souza!!
 
 
-- Trabalhando com suporte service desk 
+- Trabalhando com suporte help desk 
 - Estudando programação front-end
 - Pronomes: ele/dele
 
