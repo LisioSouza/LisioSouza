@@ -3,8 +3,7 @@
 
 - 🖥️ Trabalhando como Analista de Suporte Computacional
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Programação para web
-- 📚 Python e DataScience
+- 📚 Programação para web, Python e DataScience
 
 ## Contatos
 <div> 
