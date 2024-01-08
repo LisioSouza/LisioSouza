@@ -3,7 +3,7 @@
 
 - 🖥️ Trabalhando como Analista de Suporte Computacional
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Desenvolvimento Python e Excel
+- 📚 Quality Assurance, Python e Excel
 
 ## Contatos
 <div> 
