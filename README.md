@@ -2,7 +2,7 @@
 
 
 - 🖥️ Trabalhando como Analista de Suporte Computacional
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📚 Machine Learning, Python e Excel
 
 ## Contatos
