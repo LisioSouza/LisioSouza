@@ -3,7 +3,7 @@
 
 - 🖥️ Trabalhando como Analista de Suporte Computacional
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 📚 Machine Learning, Python e Excel
+- 📚 Desenvolvimento Full Stack
 
 ## Contatos
 <div> 
