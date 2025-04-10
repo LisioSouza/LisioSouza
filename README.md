@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lisio Souza!!
 
 
-- 🖥️ Trabalhando com Suporte a Hardware e Software
+- 🖥️ Trabalhando como Técnico de Suporte a Hardware e Software
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Desenvolvimento Full Stack
 
