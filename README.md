@@ -1,9 +1,9 @@
 ## Olá, eu sou o Lisio Souza!!
 
 
-- 🖥️ Trabalhando como Analista de Suporte Computacional
+- 🖥️ Trabalhando com Suporte a Hardware e Software
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 📚 Desenvolvimento Full Stack
+- 📚 Estudando Desenvolvimento Full Stack
 
 ## Contatos
 <div> 
