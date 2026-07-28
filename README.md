@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Lisio Souza
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👨‍💻;Técnico+em+Suporte+%7C+Desenvolvedor;Transformando+ideias+em+código!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👨‍💻;Técnico+em+Suporte+%7C+Desenvolvedor+FullStack;Transformando+ideias+em+código!+🚀" alt="Typing SVG">
 </div>
 
 ## 🚀 Sobre Mim
