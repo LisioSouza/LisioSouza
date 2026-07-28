@@ -8,7 +8,7 @@
 
 - 🖥️ **Atualmente:** Técnico de Suporte em Hardware e Software
 - 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas
-- 📚 **Especialização:** Pós-graduando em Desenvolvimento Full Stack e Cloud Computing
+<!-- 📚 **Especialização:** Pós-graduando em Desenvolvimento Full Stack e Cloud Computing -->
 - 🌱 **Foco:** Desenvolvimento web moderno e soluções em nuvem
 - ⚡ **Objetivo:** Transição completa para desenvolvedor full stack
 
